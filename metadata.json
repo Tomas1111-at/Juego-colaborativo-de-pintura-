@@ -1,0 +1,11 @@
+{
+  "name": "Pincelada Colab - Pintura Multijugador",
+  "description": "Juego de pintura colaborativa en tiempo real con sistema de capas, salas multijugador sincronizadas, optimización táctil móvil, PWA/APK y crítica artística con IA Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
